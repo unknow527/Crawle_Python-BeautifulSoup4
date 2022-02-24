@@ -1,2 +1,2 @@
-# WedCrawler_Python(BeautifulSoup4)
-Wed Crawler using Python BeautifulSoup4 
+# Crawler_Python(BeautifulSoup4)
+Web Crawler using Python BeautifulSoup4 
